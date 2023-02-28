@@ -43,27 +43,32 @@ I'm a Full Stack Developer with an orientation to the Front-End. I am passionate
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/abigail96-hub"><img src="https://github-readme-stats.vercel.app/api?username=abigail96-hub
-&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=22272e&hide_border=true&show_icons=true" alt="abigail96-hub
- GitHub stats" /></a>
 
-<a href="https://github.com/abigail96-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abigail96-hub
-&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/abigail96-hub"><img src="https://github-readme-stats.vercel.app/api?username=abigail96-hub&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=22272e&hide_border=true&show_icons=true" alt="JuanCruzRausch's GitHub stats" /></a>
+
+<a href="https://github.com/abigail96-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abigail96-hub&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 💻 My Projects 
 
 -(https://henrymusic.tech/)
 Full Stack Project realized as a final project for Soy Henry    
 Henry Music - App Streaming De Música.
-[![henry-music-2.png](https://i.postimg.cc/C1Cdwb1V/henry-music-2.png)](https://postimg.cc/gXJGDX8M)
-
+ <a href="https://github.com/juanxp1/henryMusic.git">
+![landing](https://user-images.githubusercontent.com/110571765/221952044-30ed8ecd-0e84-43da-a2fd-1428e1c50953.png)
+![henry music 2](https://user-images.githubusercontent.com/110571765/221952225-edae5fbf-e5a0-460e-813a-903cc955a1f4.png)
+![henry music 1](https://user-images.githubusercontent.com/110571765/221952291-d3363ec2-e4d0-44aa-a4cb-ea02d9e64a39.png)
+</a>
  
 - [Countries App]
-Full Stack Project for the bootcamp SoyHenry using REACT JS, SQL, EXPRESS & NODE JS 
-Diseñar y desarrollar una App de países que incluía: búsquedas, filtrados, ordenamientos y creación.Diseñar y desarrollar una App de países que incluía: búsquedas, filtrados, ordenamientos y creación.
+Full Stack Project for the bootcamp SoyHenry using REACT JS, SQL, EXPRESS & NODE JS <br>
+Diseñar y desarrollar una App de países que incluía: <br>
+búsquedas, filtrados, ordenamientos y creación.Diseñar y desarrollar una App de países que incluía: búsquedas, filtrados, ordenamientos y creación.
 dic. 2022 - ene. 2023
-   [![Countries.png](https://i.postimg.cc/C5NNnZc3/Countries.png)](https://postimg.cc/FkYc2K5p)
-
+ <a href="https://github.com/abigail96-hub/PI-Countries-main.git">
+![Countries](https://user-images.githubusercontent.com/110571765/221939894-e5f8a816-d641-49f9-8b41-8b6c95bf6d6d.png)
+</a>
  
 
 
