@@ -66,9 +66,9 @@ Full Stack Project for the bootcamp SoyHenry using REACT JS, SQL, EXPRESS & NODE
 Diseñar y desarrollar una App de países que incluía: <br>
 búsquedas, filtrados, ordenamientos y creación.Diseñar y desarrollar una App de países que incluía: búsquedas, filtrados, ordenamientos y creación.
 dic. 2022 - ene. 2023
- <a href="https://github.com/abigail96-hub/PI-Countries-main.git">
+ <a href="https://github.com/abigail96-hub/PI-Countries-main.git">  </a>
 ![Countries](https://user-images.githubusercontent.com/110571765/221939894-e5f8a816-d641-49f9-8b41-8b6c95bf6d6d.png)
-</a>
+
  
 
 
